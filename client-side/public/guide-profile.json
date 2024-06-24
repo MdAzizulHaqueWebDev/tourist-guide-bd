@@ -1,0 +1,61 @@
+[
+	{
+		"role": "guide",
+		"displayName": "John Doe",
+		"photoURL": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.588560890.1713174917&semt=sph",
+		"email": "johndoe@example.com",
+		"phone": "+1234567890"
+	},
+	{
+		"role": "guide",
+		"displayName": "Maria Lopez",
+		"photoURL": "https://img.freepik.com/free-photo/smiling-young-woman-posing_274679-3870.jpg?size=626&ext=jpg&ga=GA1.2.588560890.1713174917&semt=sph",
+		"email": "marialopez@example.com",
+		"phone": "+9876543210"
+	},
+	{
+		"role": "guide",
+		"displayName": "Ahmed Khan",
+		"photoURL": "https://img.freepik.com/free-photo/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes_176532-10257.jpg?w=900&t=st=1718014975~exp=1718015575~hmac=e4523fe7fb8935eb2234ab8e1b30d574c669460ae8257c9ca9b46e20c99b25ce",
+		"email": "ahmedkhan@example.com",
+		"phone": "+1122334455"
+	},
+	{
+		"role": "guide",
+		"displayName": "Li Wei",
+		"photoURL": "https://img.freepik.com/free-photo/smiling-young-male-professional-standing-with-arms-crossed-while-making-eye-contact-against-isolated-background_662251-838.jpg?w=740&t=st=1718015009~exp=1718015609~hmac=2a8ef65c8b971d05a3c3bf1739e9a3fc389161084941678ec5f6a5f8629eccb5",
+		"email": "liwei@example.com",
+		"phone": "+9988776655"
+	}
+]
+
+{
+// 	"professionalInformation": {
+// 		"languagesSpoken": ["English", "Spanish", "French"],
+// 		"yearsOfExperience": 10,
+// 		"regionsSpecializedIn": ["Europe", "South America"]
+// 	},
+// 	"specialSkills": ["first aid", "photography", "storytelling"],
+// 	"testimonialsAndReviews": {
+// 		"clientTestimonials": [
+// 			{
+// 				"clientdisplayName": "Alice Brown",
+// 				"testimonial": "An unforgettable experience! John's expertise was invaluable."
+// 			},
+// 			{
+// 				"clientdisplayName": "Michael Green",
+// 				"testimonial": "John's tours are the best! We had a wonderful time."
+// 			}
+// 		]
+// 	},
+// 	"faqs": [
+// 		{
+// 			"question": "What should I bring on the tour?",
+// 			"answer": "Comfortable shoes, a hat, sunscreen, and a camera."
+// 		},
+// 		{
+// 			"question": "Are meals included?",
+// 			"answer": "Yes, meals are included in the package."
+// 		}
+// 	]
+// }

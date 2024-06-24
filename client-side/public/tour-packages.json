@@ -1,0 +1,426 @@
+[
+	{
+		"title": "Explore Dhaka's Heritage",
+		"tourImg": "https://cdn-v2.theculturetrip.com/390x350/images/content-api/55c337f4-03ee-44ef-b934-f83db0cab9e0.webp",
+		"scenery": [
+			{
+				"img": "https://beautifulbangladesh.gov.bd/storage/backend/images/upload/slide/ahsan-manz-slide_2-2020-07-12-5f0ae04a08ea0.jpg",
+				"placeName": "Ahsan Manzil"
+			},
+			{
+				"img": "https://beautifulbangladesh.gov.bd/storage/backend/images/upload/slide/lalbagh-fo-slide_3-2020-06-12-5ee352f08496c.jpg",
+				"placeName": "Lalbag Fort"
+			},
+			{
+				"img": "https://beautifulbangladesh.gov.bd/storage/backend/images/upload/slide/sat-gambuj-slide_1-2020-07-15-5f0e8246d370b.jpg",
+				"placeName": "Sat Gambuj Mosque"
+			},
+			{
+				"img": "https://beautifulbangladesh.gov.bd/storage/backend/images/upload/slide/lalbagh-fo-slide_3-2020-06-12-5ee352f08496c.jpg",
+				"placeName": "Lalbag Fort"
+			}
+		],
+		"tourType": "heritage tour",
+		"shortDescrition": "Discover the rich history and culture of Dhaka on this immersive heritage tour.",
+		"duration": "5 Days",
+		"price": 1500,
+		"about": "Explore the heart of Dhaka, the vibrant capital city of Bangladesh. From the historic Ahsan Manzil to the impressive Lalbag Fort and the serene Sat Gambuj Mosque, this tour offers a deep dive into the city's heritage. Enjoy guided tours, traditional cuisine, and cultural activities throughout your stay.",
+		"highlights": [
+			"Visit the historic Ahsan Manzil",
+			"Explore the Lalbag Fort",
+			"Admire the architecture of Sat Gambuj Mosque",
+			"Experience traditional Bengali cuisine",
+			"Participate in local cultural activities"
+		],
+		"itinerary": [
+			{
+				"day": 1,
+				"title": "Arrive in Dhaka",
+				"activities": [
+					"Arrive at Hazrat Shahjalal International Airport (DAC) and transfer to your hotel.",
+					"Meet your tour guide and fellow travelers at a welcome dinner.",
+					"Optional evening stroll in the city."
+				],
+				"accommodation": "Hotel Intercontinental Dhaka",
+				"included": ["Welcome dinner"]
+			},
+			{
+				"day": 2,
+				"title": "Tour of Ahsan Manzil",
+				"activities": [
+					"Morning visit to Ahsan Manzil, the Pink Palace.",
+					"Learn about its history and significance.",
+					"Afternoon free for leisure or optional activities."
+				],
+				"accommodation": "Hotel Intercontinental Dhaka",
+				"included": ["Ahsan Manzil tour"]
+			},
+			{
+				"day": 3,
+				"title": "Explore Lalbag Fort",
+				"activities": [
+					"Guided tour of Lalbag Fort.",
+					"Visit the museum inside the fort.",
+					"Enjoy a traditional Bengali lunch."
+				],
+				"accommodation": "Hotel Intercontinental Dhaka",
+				"included": ["Lalbag Fort tour", "Lunch"]
+			},
+			{
+				"day": 4,
+				"title": "Visit Sat Gambuj Mosque",
+				"activities": [
+					"Morning visit to Sat Gambuj Mosque.",
+					"Learn about its architectural significance.",
+					"Afternoon free for shopping or leisure activities."
+				],
+				"accommodation": "Hotel Intercontinental Dhaka"
+			},
+			{
+				"day": 5,
+				"title": "Depart from Dhaka",
+				"activities": ["Transfer to the airport for your departure."]
+			}
+		],
+		"included": [
+			"4 nights hotel accommodation",
+			"Private and local transport",
+			"4 breakfasts, 1 lunch, 1 dinner",
+			"Local tour guide",
+			"Ahsan Manzil tour",
+			"Lalbag Fort tour",
+			"Sat Gambuj Mosque visit"
+		],
+		"excluded": [
+			"Visas",
+			"Travel insurance",
+			"Flights to and from the destination",
+			"City tax"
+		]
+	},
+	{
+		"title": "Chittagong Hill Tracts Adventure",
+		"tourImg": "https://media.istockphoto.com/id/2147497579/photo/tourism-of-bangladesh-hanging-bridge-of-rangamati-over-the-kaptai-lake.jpg?s=612x612&w=0&k=20&c=7NHwy1Pn8TcZKVdLleGbH01y8yRYVUpsMncazN4d3VU=",
+		"scenery": [
+			{
+				"img": "https://media.istockphoto.com/id/1817814202/photo/aerial-view-of-winding-road-over-hillside-thanchi-alikadam-road-bandarban-highest-motorable.jpg?s=612x612&w=0&k=20&c=GFyAn5oRuhaEMoOOwhz9AzG1ZsXNzxZ-RBHh_Wyu8lk=",
+				"placeName": "Bandarban"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/1445090203/photo/the-place-name-sajek-the-beauty-of-bangla.jpg?s=612x612&w=0&k=20&c=r0i40ALpRrKTSaARnduXfAdsb--n7ZprCMg33o0DcAY=",
+				"placeName": "Khagrachari"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/2150683940/photo/aerial-view-of-islands-in-kaptai-lake-in-rangamati-of-chittagong-in-bangladesh.jpg?s=612x612&w=0&k=20&c=CFvO-uFsvqegqGDOGIsohN4PKyvq16JrDwIyBMMdQhE=",
+				"placeName": "Rangamati"
+			}
+		],
+		"tourType": "adventure tour",
+		"shortDescrition": "Experience the natural beauty and cultural diversity of the Chittagong Hill Tracts.",
+		"duration": "7 Days",
+		"price": 1500,
+		"about": "Embark on an adventure through the Chittagong Hill Tracts, exploring the stunning landscapes of Bandarban, Khagrachari, and Rangamati. This tour offers a mix of outdoor activities, cultural experiences, and breathtaking views.",
+		"highlights": [
+			"Hike through the scenic Bandarban hills",
+			"Visit traditional tribal villages in Khagrachari",
+			"Enjoy a boat ride on Kaptai Lake in Rangamati",
+			"Explore the diverse flora and fauna of the region",
+			"Experience local tribal culture and cuisine"
+		],
+		"itinerary": [
+			{
+				"day": 1,
+				"title": "Arrive in Chittagong",
+				"activities": [
+					"Arrive at Shah Amanat International Airport (CGP) and transfer to your hotel.",
+					"Meet your tour guide and fellow travelers at a welcome dinner.",
+					"Optional evening walk in the city."
+				],
+				"accommodation": "Hotel Agrabad Chittagong",
+				"included": ["Welcome dinner"]
+			},
+			{
+				"day": 2,
+				"title": "Travel to Bandarban",
+				"activities": [
+					"Morning transfer to Bandarban.",
+					"Explore the local market and visit Nilgiri Hills.",
+					"Evening free for leisure."
+				],
+				"accommodation": "Nilgiri Resort",
+				"included": ["Transfer to Bandarban"]
+			},
+			{
+				"day": 3,
+				"title": "Bandarban Hiking",
+				"activities": [
+					"Full-day hiking tour in the Bandarban hills.",
+					"Visit tribal villages and enjoy the scenic views."
+				],
+				"accommodation": "Nilgiri Resort",
+				"included": ["Hiking tour"]
+			},
+			{
+				"day": 4,
+				"title": "Travel to Khagrachari",
+				"activities": [
+					"Morning transfer to Khagrachari.",
+					"Visit traditional tribal villages.",
+					"Enjoy local cuisine and cultural activities."
+				],
+				"accommodation": "Parjatan Motel Khagrachari",
+				"included": ["Transfer to Khagrachari"]
+			},
+			{
+				"day": 5,
+				"title": "Khagrachari Exploration",
+				"activities": [
+					"Explore the natural beauty of Khagrachari.",
+					"Visit waterfalls and scenic spots."
+				],
+				"accommodation": "Parjatan Motel Khagrachari"
+			},
+			{
+				"day": 6,
+				"title": "Travel to Rangamati",
+				"activities": [
+					"Morning transfer to Rangamati.",
+					"Enjoy a boat ride on Kaptai Lake.",
+					"Visit the Chakma Royal Palace and local market."
+				],
+				"accommodation": "Rangamati Resort",
+				"included": ["Transfer to Rangamati", "Boat ride"]
+			},
+			{
+				"day": 7,
+				"title": "Depart from Rangamati",
+				"activities": ["Transfer to the airport for your departure."]
+			}
+		],
+		"included": [
+			"6 nights hotel accommodation",
+			"Private and local transport",
+			"6 breakfasts, 2 lunches, 2 dinners",
+			"Local tour guide",
+			"Bandarban hiking tour",
+			"Khagrachari village visit",
+			"Rangamati boat ride"
+		],
+		"excluded": [
+			"Visas",
+			"Travel insurance",
+			"Flights to and from the destination",
+			"City tax"
+		]
+	},
+	{
+		"title": "Sundarbans Wildlife Safari",
+		"tourImg": "https://media.istockphoto.com/id/1306834008/photo/the-beauty-of-the-sundarbans.jpg?s=612x612&w=0&k=20&c=RnsWqJ5bC7BhaI-jEVLW7eqOXv3WdXFNclrXgJya7LY=",
+		"scenery": [
+			{
+				"img": "https://media.istockphoto.com/id/1223269800/photo/deers-having-food.jpg?s=612x612&w=0&k=20&c=QTgIDPu8xzrKh_zrPkQafqq4Kfg-Gk1SgnAiLiQYO9M=",
+				"placeName": "Sundarbans"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/576735462/photo/royal-bengal-tiger-panthera-tigris-bathing-in-water-india.jpg?s=612x612&w=0&k=20&c=1vZSBoDotrkKR1g97FJIgMMzzV-tT93vCDxRg7OSasE=",
+				"placeName": "Royal Bengal Tiger"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/1756704640/photo/a-canal-in-sundarbans-world-largest-mangrove-forest-bangladesh.jpg?s=612x612&w=0&k=20&c=715Wevy9Tx-UoK6UGPSy4DAOP9cRdUkaC3s4g-IsK-8=",
+				"placeName": "Mangrove Forest"
+			}
+		],
+		"tourType": "wildlife safari",
+		"shortDescrition": "Discover the unique wildlife and natural beauty of the Sundarbans, the largest mangrove forest in the world.",
+		"duration": "5 Days",
+		"price": 1500,
+		"about": "Join us on an exciting wildlife safari through the Sundarbans, home to the Royal Bengal Tiger and a rich variety of flora and fauna. This tour offers a perfect blend of adventure, nature exploration, and cultural experiences.",
+		"highlights": [
+			"Boat safari through the Sundarbans mangrove forest",
+			"Spot Royal Bengal Tigers and other wildlife",
+			"Visit local fishing villages and meet the community",
+			"Explore the diverse flora and fauna of the region",
+			"Learn about the conservation efforts in the Sundarbans"
+		],
+		"itinerary": [
+			{
+				"day": 1,
+				"title": "Arrive in Khulna",
+				"activities": [
+					"Arrive at Jessore Airport (JSR) and transfer to Khulna.",
+					"Meet your tour guide and fellow travelers at a welcome dinner.",
+					"Optional evening walk along the river."
+				],
+				"accommodation": "Hotel Castle Salam Khulna",
+				"included": ["Welcome dinner"]
+			},
+			{
+				"day": 2,
+				"title": "Travel to Sundarbans",
+				"activities": [
+					"Morning transfer to Mongla port.",
+					"Board the boat for your Sundarbans adventure.",
+					"Explore the mangrove forest and spot wildlife."
+				],
+				"accommodation": "Boat accommodation",
+				"included": ["Transfer to Sundarbans", "Boat safari"]
+			},
+			{
+				"day": 3,
+				"title": "Sundarbans Exploration",
+				"activities": [
+					"Full-day exploration of the Sundarbans.",
+					"Visit wildlife sanctuaries and local villages.",
+					"Learn about the conservation efforts in the region."
+				],
+				"accommodation": "Boat accommodation",
+				"included": ["Wildlife exploration"]
+			},
+			{
+				"day": 4,
+				"title": "More Sundarbans Adventures",
+				"activities": [
+					"Continue exploring the Sundarbans.",
+					"Spot Royal Bengal Tigers and other wildlife.",
+					"Evening campfire and cultural program."
+				],
+				"accommodation": "Boat accommodation",
+				"included": ["Cultural program"]
+			},
+			{
+				"day": 5,
+				"title": "Depart from Sundarbans",
+				"activities": [
+					"Morning transfer back to Mongla port.",
+					"Travel to Jessore Airport for your departure."
+				],
+				"accommodation": "None",
+				"included": ["Transfer to Jessore"]
+			}
+		],
+		"included": [
+			"4 nights accommodation (3 nights on boat)",
+			"Private and local transport",
+			"4 breakfasts, 3 lunches, 3 dinners",
+			"Local tour guide",
+			"Boat safari",
+			"Wildlife exploration",
+			"Cultural program"
+		],
+		"excluded": [
+			"Visas",
+			"Travel insurance",
+			"Flights to and from the destination",
+			"City tax"
+		]
+	},
+	{
+		"title": "Tea Gardens and Tribal Heritage ",
+		"tourImg": "https://media.istockphoto.com/id/177559820/photo/tea-garden.jpg?s=612x612&w=0&k=20&c=dBuznRZ1Uv32ck7EeoQAOnWDV1hxuk6dlUqeU_uo8As=",
+		"scenery": [
+			{
+				"img": "https://media.istockphoto.com/id/482532901/photo/in-tea-plantation.jpg?s=612x612&w=0&k=20&c=QDZU1LVSagQlWSLLNwY62engyaw02rBBbM4UEFtTtY8=",
+				"placeName": "Sylhet Tea Gardens"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/1132095009/photo/tea-plantation-near-haputale-sri-lanka.jpg?s=612x612&w=0&k=20&c=_AdaHBXHvCHZjw8mlDmsc9Q9zYqZh5at2RGgO8LIU0c=",
+				"placeName": "Jaflong"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/459023007/photo/plantation-of-longjing-tea.jpg?s=612x612&w=0&k=20&c=Q_GOTEYGFSdh6vvfOPqNtTJpZaJ4xnZBoj6p74VH9Q4=",
+				"placeName": "Ratargul Swamp Forest"
+			},
+			{
+				"img": "https://media.istockphoto.com/id/620956734/photo/tea-gardens-in-india.jpg?s=612x612&w=0&k=20&c=hXkCscdiEfJ2pwQiX3i86blHoBWFU8X8IUqI5QhlMu0=",
+				"placeName": "Swamp Forest"
+			}
+		],
+		"tourType": "cultural tour",
+		"shortDescrition": "Explore the lush tea gardens of Sylhet and immerse yourself in the rich tribal heritage of the region.",
+		"duration": "6 Days",
+		"price": 1500,
+		"about": "Discover the beauty of Sylhet's tea gardens and experience the vibrant tribal culture on this 6-day tour. Enjoy scenic views, cultural performances, and visits to traditional villages.",
+		"highlights": [
+			"Visit the picturesque tea gardens of Sylhet",
+			"Explore the Ratargul Swamp Forest",
+			"Experience the tribal culture of Jaflong",
+			"Enjoy traditional dance performances",
+			"Taste authentic tribal cuisine"
+		],
+		"itinerary": [
+			{
+				"day": 1,
+				"title": "Arrive in Sylhet",
+				"activities": [
+					"Arrive at Osmani International Airport (ZYL) and transfer to your hotel.",
+					"Meet your tour guide and fellow travelers at a welcome dinner.",
+					"Optional evening walk in the city."
+				],
+				"accommodation": "Hotel Rose View Sylhet",
+				"included": ["Welcome dinner"]
+			},
+			{
+				"day": 2,
+				"title": "Sylhet Tea Gardens",
+				"activities": [
+					"Morning visit to the lush tea gardens.",
+					"Learn about the tea-making process.",
+					"Afternoon free for leisure."
+				],
+				"accommodation": "Hotel Rose View Sylhet",
+				"included": ["Tea garden tour"]
+			},
+			{
+				"day": 3,
+				"title": "Explore Jaflong",
+				"activities": [
+					"Full-day tour of Jaflong.",
+					"Visit tribal villages and experience local culture.",
+					"Enjoy traditional dance performances."
+				],
+				"accommodation": "Hotel Rose View Sylhet",
+				"included": ["Jaflong tour", "Dance performance"]
+			},
+			{
+				"day": 4,
+				"title": "Ratargul Swamp Forest",
+				"activities": [
+					"Morning visit to the Ratargul Swamp Forest.",
+					"Boat ride through the forest.",
+					"Afternoon free for leisure."
+				],
+				"accommodation": "Hotel Rose View Sylhet",
+				"included": ["Swamp forest tour"]
+			},
+			{
+				"day": 5,
+				"title": "Free Day in Sylhet",
+				"activities": [
+					"Enjoy a free day to explore Sylhet at your own pace.",
+					"Optional activities such as shopping or visiting local attractions."
+				],
+				"accommodation": "Hotel Rose View Sylhet"
+			},
+			{
+				"day": 6,
+				"title": "Depart from Sylhet",
+				"activities": ["Transfer to the airport for your departure."]
+			}
+		],
+		"included": [
+			"5 nights hotel accommodation",
+			"Private and local transport",
+			"5 breakfasts, 2 lunches, 2 dinners",
+			"Local tour guide",
+			"Tea garden tour",
+			"Jaflong tour",
+			"Swamp forest tour"
+		],
+		"excluded": [
+			"Visas",
+			"Travel insurance",
+			"Flights to and from the destination",
+			"City tax"
+		]
+	}
+]

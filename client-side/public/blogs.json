@@ -1,0 +1,42 @@
+[
+	{
+		"category": "Adventure",
+		"tourTitle": "Hiking the Inca Trail",
+		"description": "A thrilling adventure through the Andes mountains, culminating in the breathtaking ruins of Machu Picchu.",
+		"authorName": "John Doe",
+		"date": "2024-06-01",
+		"image": "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"category": "Cultural",
+		"tourTitle": "Exploring Kyoto's Temples",
+		"description": "A serene journey through Kyoto's ancient temples and gardens, experiencing the rich cultural heritage of Japan.",
+		"authorName": "Jane Smith",
+		"date": "2024-06-05",
+		"image": "https://images.pexels.com/photos/2108813/pexels-photo-2108813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"category": "Beach",
+		"tourTitle": "Relaxing in the Maldives",
+		"description": "An idyllic escape to the crystal-clear waters and white sandy beaches of the Maldives, perfect for unwinding and rejuvenating.",
+		"authorName": "Alice Johnson",
+		"date": "2024-06-10",
+		"image": "https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"category": "Wildlife",
+		"tourTitle": "Safari in Serengeti",
+		"description": "An exciting safari adventure in Serengeti National Park, witnessing the incredible wildlife and stunning landscapes of Africa.",
+		"authorName": "Michael Brown",
+		"date": "2024-06-12",
+		"image": "https://images.pexels.com/photos/2422265/pexels-photo-2422265.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"category": "Historical",
+		"tourTitle": "Discovering Ancient Rome",
+		"description": "A fascinating tour of Rome's ancient landmarks, delving into the history and architecture of the Roman Empire.",
+		"authorName": "Emily Davis",
+		"date": "2024-06-15",
+		"image": "https://images.pexels.com/photos/2412606/pexels-photo-2412606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	}
+]
